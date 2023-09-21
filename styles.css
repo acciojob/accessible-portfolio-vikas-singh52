@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+.nav>a{
+	text-decoration:none;
+	color:black;
+	
+}
